@@ -1,9 +1,16 @@
 /* LAB: Agrega una regla para que el color de los encabezados h1 sea rojo. */
-
+h1{
+    color: red;
+}
 /* LAB: Agrega una regla para que el color de los párrafos sea verde. */
-
+p{
+    color: green;
+}
 /* LAB: Actualiza la regla para que también el color de los elementos de las listas sea verde. */
-
+li{
+    color: green;
+    text-decoration: ;
+}
 /* LAB: Elimina los estilos de los elementos de las listas. */
 /* LAB: Modifica el estilo de las viñetas de los elementos de las listas para que sean cuadrados. */
 
